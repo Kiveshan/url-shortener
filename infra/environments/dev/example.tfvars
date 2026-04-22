@@ -1,0 +1,4 @@
+# Copy this file to terraform.tfvars and fill in your values
+aws_region   = "us-east-1"
+environment  = "dev"
+project_name = "url-shortener"
