@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "src/shared" },
+    { "path": "src/functions/redirect" },
+    { "path": "src/functions/shorten" },
+    { "path": "src/functions/analytics-consumer" },
+    { "path": "src/functions/management-api" }
+  ]
+}
